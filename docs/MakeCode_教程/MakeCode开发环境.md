@@ -4,7 +4,7 @@
 
 **MakeCode编程环境：**
 
-打开MakeCode在线网页版本: [https://makecode.microbit.org/](https://makecode.microbit.org/)
+打开MakeCode在线网页版本: [MakeCode](https://makecode.microbit.org/#editor)
 
 MakeCode 编译器如下:
 
@@ -46,13 +46,15 @@ MakeCode 编译器如下:
 
 ⚠️ **特别提醒：我们为每个项目实验提供十六进制代码文件（.hex）。十六进制代码文件包含运行项目所需的所有内容，你可以直接将其导入MakeCode编辑器中使用，也可以手动拖动代码块来创建每个项目实验的代码。如果选择通过手动拖动代码块来创建项目代码，则需要添加库文件。**
 
+打开MakeCode在线网页版本: [MakeCode](https://makecode.microbit.org/#editor)
+
 ⚠️ **<span style="color: rgb(255, 76, 65);">特别提醒:</span>** 将链接：`https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` 复制粘贴到页面的搜索框中。
 
 ![Img](./media/Animation-4.gif)
 
 除了参照上面的动图演示，也可以参照下面的详细步骤说明来添加 MakeCode 扩展库。
 
-1\. 打开MakeCode编辑器，单击 **<span style="color: rgb(255, 76, 65);">Advanced</span>** 上面的 “**Extensions**”。
+1\. 打开MakeCode编辑器 [MakeCode](https://makecode.microbit.org/#editor)，单击 **<span style="color: rgb(255, 76, 65);">Advanced</span>** 上面的 “**Extensions**”。
 
 ![Img](./media/A900.png)
 
@@ -104,7 +106,7 @@ MakeCode 编译器如下:
 
 单击下载示例代码：[heatbeat](heatbeat.7z)
 
-接下来，我们以 “**heatbeat**” 项目为例，介绍如何在MakeCode编辑器中导入示例代码。
+接下来，我们以 “**heatbeat**” 项目为例，介绍如何在MakeCode编辑器 [MakeCode](https://makecode.microbit.org) 中导入示例代码。
 
 ![Img](./media/Animation-2.gif)
 
@@ -118,7 +120,7 @@ MakeCode 编译器如下:
 
 ![Img](./media/A849.png)
 
-2\. 打开在线Web版本的MakeCode编辑器，单击 “**Import**” 按钮。
+2\. 打开在线Web版本的MakeCode编辑器 [MakeCode](https://makecode.microbit.org)，单击 “**Import**” 按钮。
 
 ![Img](./media/A956.png)
 
