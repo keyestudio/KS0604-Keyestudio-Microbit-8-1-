@@ -26,20 +26,6 @@ MakeCode 编译器如下:
 
 ![Img](./media/Animation-3.gif)
 
-除了参照上面的动图演示，也可以参照下面的详细步骤说明来进行语言设置。
-
-第一步：点击右上角的设置按钮。
-
-![Img](./media/A301.png)
-
-第二步：在下拉菜单中选择 “Language”。
-
-![Img](./media/A302.png)
-
-第三步：在弹出的对话框中，选择你需要的界面语言。这里是以 “English” 语言为例。
-
-![Img](./media/A303.png)
-
 ## 3.1.2 MakeCode扩展库(<span style="color: rgb(255, 76, 65);">重要</span>)
 
 ### 3.1.2.1 添加MakeCode扩展库
@@ -52,149 +38,49 @@ MakeCode 编译器如下:
 
 ![Img](./media/Animation-4.gif)
 
-除了参照上面的动图演示，也可以参照下面的详细步骤说明来添加 MakeCode 扩展库。
-
-1\. 打开在线MakeCode编辑器：[MakeCode](https://makecode.microbit.org/#editor)，单击 **<span style="color: rgb(255, 76, 65);">Advanced</span>** 上面的 “**Extensions**”。
-
-![Img](./media/A900.png)
-
-2\. 你可以选择关键词搜索或者输入GitHub链接来搜索扩展库。
-
-![Img](./media/A909.png)
-
-3\. 将链接：`https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` 复制粘贴到页面的搜索框中，接着点击搜索图标![Img](./media/A3257.png)，然后单击选中库文件 “**Inventors**”。
-
-![Img](./media/A306.png)
-
-4\. 等待添加。
-
-![Img](./media/A3316.png)
-
-5\. 添加成功。
-
-![Img](./media/A335.png)
-
 ### 3.1.2.2 更新或删除扩展库
 
 ⚠️ **<span style="color: rgb(255, 76, 65);">特别提醒：一般情况下，添加好库文件是不需要再删除它们的，除非是不需要它们。这部分内容仅供学习怎样来删除不需要的库文件。</span>**
 
 ![Img](./media/Animation-5.gif)
 
-除了参照上面的动图演示，也可以参照下面的详细步骤说明来进行更新或删除扩展库。
-
-1\. 单击 “**JavaScript**” 按钮切换到文本代码。
-
-![Img](./media/A724.png)
-
-2\. 单击左边的 “**Explorer**”。
-
-![Img](./media/A749.png)
-
-3\. 在扩展列表中找到 “**Inventors**” 扩展库文件，单击垃圾箱![Img](./media/A813.png)图标以删除 “**Inventors**” 扩展库文件。
-
-![Img](./media/A824.png)
-
-4\. 选择单击 “**Remove it**” 即可删除。
-
-![Img](./media/A727.png)
-
-其他库的删除方法类似，可以参照。
-
 ## 3.1.3 MakeCode示例代码下载
 
 ### 3.1.3.1 在MakeCode中导入示例代码
 
-单击下载示例代码：[heatbeat](./heatbeat.7z)
+1\. 单击下载示例代码：[heartbeat](./heartbeat.7z)
 
-接下来，我们以 “**heatbeat**” 项目为例，介绍如何在MakeCode编辑器：[MakeCode](https://makecode.microbit.org) 中导入示例代码。
-
-![Img](./media/Animation-2.gif)
-
-除了参照上面的动图演示，也可以参照下面的详细步骤说明在MakeCode编辑器中导入示例代码。
-
-1\. 通过micro USB线将 micro:bit 主板连接到电脑上。
+2\. 用micro USB线连接电脑和micro:bit V2主板。
 
 ![Img](./media/A800.png)
 
-不管是使用外接电源还是连接到电脑上的micro USB数据线供电，micro:bit主板背后的红色LED指示灯亮起来，说明micro:bit主板有电了。在micro:bit V2主板上，当你的电脑通过micro USB与micro:bit V2主板通信时，黄色LED指示灯会闪烁。同时，micro:bit V2主板连接到电脑时，你的电脑上将显示一个名为 ' MICROBIT ' 驱动器。但请注意，它不是普通的USB磁盘！
+在micro:bit V2主板上，当你的电脑通过micro USB与micro:bit V2主板通信时，黄色LED指示灯会闪烁。如果micro:bit V2主板连接到电脑时，打开 Finder(Mac) / 文件资源管理器(Windows)，你会注意到 micro:bit 被列为一个名为 ' MICROBIT ' 的USB驱动器。但请注意，它不是普通的USB磁盘！！
 
 ![Img](./media/A849.png)
 
-2\. 打开在线Web版本的MakeCode编辑器：[MakeCode](https://makecode.microbit.org/)，单击 “**Import**” 按钮。
+3\. 有两种方法可以在MakeCode编辑器：[MakeCode](https://makecode.microbit.org) 中导入或更新已保存的十六进制文件（**.hex**）。接下来，我们以 “**heatbeat**” 示例代码为例。
 
-![Img](./media/A956.png)
+**方法1：** 点击主页右侧的 “导入” 按钮。
 
-3\. 在弹出的对话框中，单击 “**Import File...**” 按钮。
+![Img](./media/Animation-2.gif)
 
-![Img](./media/A042.png)
+**方法2：** 将十六进制文件（**.hex**）从计算机拖到主页或编辑窗口。
 
-4\. 单击 “**Choose File**” 按钮，导航到你下载的示例代码所保存的位置。
+![Img](./media/Animation-010.gif)
 
-![Img](./media/A06.png)
+<span style="color: rgb(255, 76, 65);">注意：</span> micro:bit 主板一次只能运行一个程序，每次您通过micro USB数据线下载发送十六进制文件到设备上时，它都会擦除当前程序并用新程序替换它。
 
-5\. 打开下载好的示例代码 “**heartbeat.hex**” 。
-
-![Img](./media/A28.png)
-
-6\. 单击 “**Go ahead √**” 按钮进入 MakeCode 编译器。
-
-![Img](./media/A149.png)
-
-除了上述将下载好的示例代码文件直接导入到MakeCode编译器中的方法之外，也可以将下载好的示例代码文件直接拖入到MakeCode编译器中的代码编辑区，如下图所示：
-
-![Img](./media/A202.png)
-
-7\. 示例代码成功加载。
-
-![Img](./media/A217.png)
+![Img](./media/Animation-011.gif)
 
 ### 3.1.3.2 下载示例代码(WebUSB功能)
 
-1\. 用micro USB线连接电脑和micro:bit V2主板。
-
-![Img](./media/A951.png)
-
-2\. 如果使用 **Google Chrome**  或  **Microsoft Edge 浏览器** 的WebUSB功能，该功能允许你直接通过在线网页访问你的micro USB硬件设备。配对设备成功后可以通过单击 “**Download**” 按钮将示例代码快速下载到micro:bit V2主板。
+如果是使用 **Google Chrome/Microsoft Edge** 等浏览器的WebUSB功能，该功能允许你直接通过在线网页访问你的micro USB硬件设备。点击 “Connect Device” 按钮来连接设备，连接设备成功后，可以通过单击 “**Download**” 按钮将示例代码快速下载到micro:bit V2主板。
 
 ![Img](./media/Animation.gif)
 
-除了参照上面的动图演示，也可以参照下面的详细步骤说明来进行配对设备，将示例代码下载至micro:bit V2主板。
-
-#### 3.1.3.2.1 配对设备
-
-1\. 用micro USB线连接电脑和micro:bit V2主板。
-
-![Img](./media/A951.png)
-
-2\. 单击 “**Download**” 后面的 “**...**” ，然后单击 “**Connect device**”。
-
-![Img](./media/A028.png)
-
-3\. 然后继续单击 “**Next**” 按钮。
-
-![Img](./media/A046.png)
-
-4\. 再继续单击 “**Pair**” 按钮。
-
-![Img](./media/A104.png)
-
-5\. 在弹出窗口中选中对应的 “**设备**” ，然后单击 “**Connect**” 按钮。 
-
-![Img](./media/A127.png)
-
-6\. 单击 “**Done**” ，设备连接成功。
-
-![Img](./media/A144.png)
-
-#### 3.1.3.2.2 下载程序
-
-设备连接成功后，单击 “**Download**” 按钮，示例代码将直接下载到micro:bit V2主板，如果示例代码成功下载到micro:bit V2主板上，下载按钮 ![Img](./media/A212.png) 会变成 ![Img](./media/A220.png)。
-
-![Img](./media/A232.png)
-
 ⚠️ **特别提醒：**
 
-如果弹出窗口中没有设备，请参考以下链接中的内容进行故障排插：
+如果弹出窗口中没有设备，请参考以下链接中的内容进行故障排查：
 
 [https://makecode.microbit.org/device/usb/webusb/troubleshoot](https://makecode.microbit.org/device/usb/webusb/troubleshoot)
 
@@ -204,39 +90,29 @@ MakeCode 编译器如下:
 
 ### 3.1.3.3 下载示例代码(非WebUSB功能)
 
-1\. 通过micro USB线将micro:bit 主板连接到电脑。
-
-![Img](./media/A800.png)
-
-不管是使用外接电源还是连接到电脑上的micro USB数据线供电，micro:bit V2主板背后的红色LED指示灯亮起来，说明显示micro:bit V2主板有电了。在micro:bit V2主板上，当你的电脑通过micro USB与micro:bit V2主板通信时，黄色LED指示灯会闪烁。如果micro:bit V2主板连接到电脑时，你的电脑上将显示为一个名为 ' MICROBIT ' 的驱动器。但请注意，它不是普通的USB磁盘！
-
-![Img](./media/A849.png)
-
-2\. 如果是使用其他浏览器（如：非Google Chrome 或 非Microsoft Edge浏览器）导入示例代码，请按照以下步骤将示例代码上传到micro:bit V2主板上：
+如果是使用 **Safari/Firefox/其他** 等浏览器导入示例代码，请按照以下步骤将示例代码上传到micro:bit V2主板上：
 
 ![Img](./media/Animations-1.gif)
 
-除了参照上面的动图演示，也可以参照下面的详细步骤说明来下载示例代码至micro:bit V2主板。
- 
-① 单击编辑器中的 “**Download**” 按钮。 这将下载一个 “**.hex**” (十六进制)文件，该文件是micro:bit V2主板可以读取的格式文件。十六进制文件下载后，将其复制粘贴到你的micro:bit V2主板，就像将文件复制粘贴到USB驱动器一样。 在Windows系统上，你还可以右键单击并选择 “**发送到→MICROBIT**” 将 “**.hex**” 文件拷贝到micro:bit V2主板。将 “**.hex**” 文件拷贝到micro:bit V2主板过程中，micro:bit V2主板背面的黄色信号灯会闪烁，当拷贝完成后黄色信号灯停止闪烁，保持长亮。
+### 3.1.3.4 下载示例代码(传输已下载为十六进制文件的程序)
 
-![Img](./media/A319.png)
+找到已下载的程序 **.hex** 文件（例如，在你的本地下载文件夹中），然后将其拖放到 ' MICROBIT ' 驱动器上。
 
-![Img](./media/A449.png)
+![Img](./media/Animation-012.gif)
 
-也可以将 “**.hex**” 文件直接拖入MICROBIT磁盘中。
+或者，你可以鼠标右键点击并选择 “发送到 -> MICROBIT”。
 
-![Img](./media/A341.png)
+![Img](./media/Animation-013.gif)
 
-![Img](./media/A345.png)
-
-② 将示例代码程序上传micro: bit V2主板后，通过micro USB线连接到电脑上给micro: bit V2主板供电，可以看到micro: bit V2主板上的 5 x 5 LED点阵屏先显示![Img](./media/A903.png)图案，再显示![Img](./media/A910.png)图案。循环进行！
+通过上述任意一种方法将示例代码程序上传micro: bit V2主板后，通过micro USB线连接到电脑上给micro: bit V2主板供电，可以看到micro: bit V2主板上的 5 x 5 LED点阵屏先显示![Img](./media/A903.png)图案，再显示![Img](./media/A910.png)图案。循环进行！
 
 ![Img](./media/A22.png)
 
-⚠️ **特别提醒：** 如果你的电脑是Windows 10操作系统，你也可以使用Windows 10 APP编程，这与在在线浏览器上编程完全相同。使用 Windows 10 App [Get Windows 10 App](https://apps.microsoft.com/detail/9nmqdq2xzkwk?hl=en-gb&gl=CN) (Click) 编程，则只需单击 “**Download**” 按钮，该示例代码将直接下载到micro:bit V2主板，而无需任何其它操作。
+⚠️ **<span style="color: rgb(255, 76, 65);">特别提醒：</span>** 官方也提供了如何将程序(十六进制 **.hex** 文件)从多个设备传输到micro:bit V2主板的详细教程。
 
-⚠️ **特别提醒：** 每次编程时，MICROBIT磁盘都会自动弹出并返回，但是你已经拷贝到MICROBIT磁盘的十六进制（**.hex**）文件将不会被显示。micro:bit V2主板只能接收并运行最新上传的十六进制（**.hex**）文件，不会存储任何其他文件！
+[https://microbit.org/get-started/user-guide/transfer-code-to-the-microbit](https://microbit.org/get-started/user-guide/transfer-code-to-the-microbit)
+
+⚠️ **特别注意：** 每次编程时，MICROBIT磁盘都会自动弹出并返回，但是你已经拷贝到MICROBIT磁盘的十六进制（**.hex**）文件将不会被显示。micro:bit V2主板只能接收并运行最新上传的十六进制（**.hex**）文件，不会存储任何其他文件！
 
 
 
