@@ -96,11 +96,11 @@ MakeCode 编译器如下:
 
 ### 3.1.3.4 下载示例代码(传输已下载为十六进制文件的程序)
 
-找到已下载的程序 **.hex** 文件（例如，在你的本地下载文件夹中），然后将其拖放到 ' MICROBIT ' 驱动器上。
+找到已下载的程序 **heartbeat.hex** 文件（例如，在你的本地下载文件夹中），然后将其拖放到 ' MICROBIT ' 驱动器上。
 
 ![Img](./media/Animation-012.gif)
 
-或者，你可以鼠标右键点击并选择 “发送到 -> MICROBIT”。
+或者，你可以鼠标右键点击 **heartbeat.hex** 文件并选择 “发送到 -> MICROBIT”。
 
 ![Img](./media/Animation-013.gif)
 
