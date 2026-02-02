@@ -34,7 +34,7 @@ MakeCode 编译器如下:
 
 打开MakeCode在线网页版本: [MakeCode](https://makecode.microbit.org/#editor)
 
-⚠️ **<span style="color: rgb(255, 76, 65);">特别提醒:</span>** 将链接：`https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` 复制粘贴到页面的搜索框中。
+⚠️ **<span style="color: rgb(255, 76, 65);">特别提醒:</span>** 将链接：`https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` 复制粘贴到页面的搜索框中，添加对应的库文件。
 
 ![Img](./media/Animation-4.gif)
 
@@ -48,7 +48,7 @@ MakeCode 编译器如下:
 
 ### 3.1.3.1 在MakeCode中导入示例代码
 
-1\. 单击下载示例代码：[heartbeat](./heartbeat.7z)
+1\. 单击下载示例代码：![Img](./media/ABC12.png) [heartbeat](./heartbeat.7z)
 
 2\. 用micro USB线连接电脑和micro:bit V2主板。
 
