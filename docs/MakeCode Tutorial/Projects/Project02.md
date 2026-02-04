@@ -1,0 +1,157 @@
+### 3.2.2 Swaying Boat
+
+#### 3.2.2.1 Overview
+
+![Img](./media/top1.png)
+
+Here we build a swaying boat with a Microbit V2 board, a servo expansion board, a 360° LEGO servo and some LEGO parts. We program to control the boat to perform some movements through the Microbit V2 button A, B and A+B.
+
+![Img](./media/bottom1.png)
+
+#### 3.2.2.2 Required Parts
+
+![Img](./media/A2-0.png)
+
+#### 3.2.2.3 Installation Steps
+
+![Img](./media/2top.png)
+
+![Img](./media/A2-1.png)
+
+![Img](./media/A2-2.png)
+
+![Img](./media/A2-3.png)
+
+![Img](./media/A2-4.png)
+
+![Img](./media/A2-5.png)
+
+![Img](./media/A2-6.png)
+
+![Img](./media/A2-7.png)
+
+![Img](./media/A2-8.png)
+
+![Img](./media/A2-9.png)
+
+![Img](./media/A2-10.png)
+
+![Img](./media/A2-11.png)
+
+![Img](./media/A2-12.png)
+
+![Img](./media/A2-13.png)
+
+![Img](./media/A2-14.png)
+
+![Img](./media/A2-15.png)
+
+![Img](./media/A2-16.png)
+
+![Img](./media/A2-17.png)
+
+![Img](./media/A2-18.png)
+
+![Img](./media/A2-19.png)
+
+![Img](./media/A2-20.png)
+
+![Img](./media/A2-21.png)
+
+![Img](./media/A2-22.png)
+
+![Img](./media/A02.png)
+
+![Img](./media/wiring2.jpg)
+
+![Img](./media/A2-23.png)
+
+![Img](./media/A2-24.png)
+
+![Img](./media/A2-25.png)
+
+![Img](./media/A2-26.png)
+
+![Img](./media/A2-27.png)
+
+![Img](./media/A2-28.png)
+
+![Img](./media/A2-29.png)
+
+![Img](./media/2bottom.png)
+
+#### 3.2.2.4 Test Code
+
+![Img](./media/couj02.png)
+
+⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: You can obtain the sample code through the following two methods.</span>**
+
+##### **Method 1: Drag and drop code blocks to build the sample code.**
+
+**1. MakeCode programming environment**
+
+The online version of MakeCode: [MakeCode](https://makecode.microbit.org/#editor)
+
+**2. Extension library**
+
+⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: </span>** Copy and paste `https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` to the search box to import the library.
+
+![Img](./media/Animation-4.gif)
+
+**3. Write sample code**
+
+![Img](./media/dongtu-02.gif)
+
+##### **Method 2: Download the sample code file directly**
+
+**1. Download the code file:**
+
+Click to download the code file: [3_3_2_Swaying_Boat](./Codes/3_3_2_Swaying_Boat.hex)
+
+**2. MakeCode programming environment**
+
+The online version of MakeCode: [MakeCode](https://makecode.microbit.org/#editor)
+
+**3. Load the sample code:**
+
+Drag and drop the sample code to the MakeCode editor.
+
+![Img](./media/Animation-0002.gif)
+
+![Img](./media/line1.png)
+
+#### 3.2.2.5 Test Result
+
+![Img](./media/4top.png)
+
+Wire up and power on through micro USB cable, and and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
+
+Send the downloaded ".hex" file to the micro:bit V2 board. 
+
+**① Download through WebUSB**
+
+For browsers like **Google Chrome / Microsoft Edge**, you need to click “Connect Device” to pair the device first. After that, click “**Download**” to load the sample code to the micro:bit V2 board.
+
+![Img](./media/Animation-02.gif)
+
+**② Download without WebUSB**
+
+For browsers like **Safari / Firefox / Other**, download and send the sample code to the micro:bit V2 board.
+
+![Img](./media/Animation-002.gif)
+
+After downloading the sample code, unplug the micro USB cable to the board.
+
+Turn the DIP switched to the RGB and ON.
+
+![Img](./media/CBA01.png)
+
+Press button A on the micro:bit V2 board and then release it, the swaying boat glides forward, the five SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
+
+Press button B on the micro:bit V2 board and then release it, the swaying boat glides backward, the five SK6812 RGB LEDs emit orange light, and the 5×5 LED matrix displays ![Img](./media/ab1.png).
+
+Press buttons A and B on the micro:bit V2 board simultaneously and then release them, the swaying boat stops, and the five SK6812 RGB LEDs and the 5×5 LED matrix turn off.
+
+![Img](./media/dongtu-002.gif)
+
+![Img](./media/4bottom.png)
