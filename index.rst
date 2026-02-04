@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyestudio KS0604 套装
+   :caption: KS0604 Keyestudio Micro:bit Variant Master 8-in-1 Programming Robot
 
    README.md
    docs/Product Introduction/1.Product Introduction
