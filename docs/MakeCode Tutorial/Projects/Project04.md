@@ -142,13 +142,13 @@ The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.o
 
 Click to download the code file: <u>[3_3_4_Electric_Crab](./Codes/3_3_4_Electric_Crab.hex)</u>
 
-**2. MakeCode programming environment**
+**2. MakeCode programming environment**  
 
 The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.org/#editor)</u>
 
 **3. Load the sample code:**
 
-Drag the sample code to the MakeCode editor.
+Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/Animation-0004.gif)
 

@@ -8,7 +8,7 @@ Here we build a Ferris wheel with a Microbit V2 board, a servo expansion board, 
 
 ![Img](./media/bottom1.png)
 
-#### 3.2.7.2 Required Parts
+#### 3.2.7.2 Materials Required
 
 ![Img](./media/A7-0.png)
 

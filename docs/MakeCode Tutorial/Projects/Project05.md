@@ -4,7 +4,7 @@
 
 ![Img](./media/top1.png)
 
-Here we build a flywheel bike with a Microbit V2 board, a servo expansion board, two 360° LEGO servos and some LEGO parts. We program to control it to move through the Microbit V2 button A/B.
+Here we build a flywheel bike with a Microbit V2 board, a servo expansion board, two 360° LEGO servos and some LEGO parts. We program to control it to move through the Microbit V2 button A and B.
 
 ![Img](./media/bottom1.png)
 
@@ -138,7 +138,7 @@ The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.o
 
 **3. Load the sample code:**
 
-Drag the sample code to the MakeCode editor.
+Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/Animation-0001.gif)
 

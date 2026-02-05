@@ -8,7 +8,7 @@ Here we build a smart light following dog with a Microbit V2 board, a servo expa
 
 ![Img](./media/bottom1.png)
 
-#### 3.2.6.2 Required Parts
+#### 3.2.6.2 Materials Required
 
 ![Img](./media/A6-0.png)
 
@@ -132,7 +132,7 @@ The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.o
 
 **3. Load the sample code:**
 
-Drag the sample code to the MakeCode editor.
+Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/Animation-0006.gif)
 
