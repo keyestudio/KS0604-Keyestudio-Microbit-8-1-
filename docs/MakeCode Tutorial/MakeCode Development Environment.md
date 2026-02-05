@@ -56,17 +56,17 @@ Or click “**Python**” to switch to Python code:
 
 On the micro:bit V2 board, there is a yellow LED that will flash when the board communicates with your computer through micro USB. 
 
-Open Finder(Mac) / Devices and drives(Windows), and you can see a USB drive named "MICROBIT". Yet note that it is not a common disk!
+Open **Finder (Mac) / File Explorer (Windows)**, and you can see a USB drive named "**MICROBIT**". Yet note that it is not a common disk!
 
 ![Img](./media/A849.png)
 
-3\. There are two ways to import/update the stored code file(**.hex**) in <u>[MakeCode](https://makecode.microbit.org)</u>. We will take the file “**heartbeat**” as an example.
+3\. There are two ways to import/update the stored code file (**.hex**) in <u>[MakeCode Editor](https://makecode.microbit.org)</u>. We will take the file “**heartbeat**” as an example.
 
-**Method 1:** Just click "import":
+**Method 1:** Just click "import" on the Makecode main interface:
 
 ![Img](./media/Animation-2.gif)
 
-**Method 2:** Drag the hex file to the Makecode main interface:
+**Method 2:** Drag and drop the ".hex" file to the Makecode editor:
 
 ![Img](./media/Animation-010.gif)
 
@@ -76,7 +76,7 @@ Open Finder(Mac) / Devices and drives(Windows), and you can see a USB drive name
 
 ### 3.1.3.2 Download Code (WebUSB functionality)
 
-For browsers like **Google Chrome / Microsoft Edge**, their WebUSB allows direct access to the micro USB hardware device through online web page. Click “Connect Device” to pair the device. After that, click “**Download**” to load the code to the micro:bit V2 board.
+For browsers like **Google Chrome / Microsoft Edge**, their WebUSB allows direct access to the micro USB hardware device through online web page. Click “**Connect Device**” to pair the device first. After that, click “**Download**” to load the code to the micro:bit V2 board.
 
 ![Img](./media/Animation.gif)
 
@@ -92,7 +92,7 @@ For browsers like **Safari / Firefox / Other**, please load the code to the micr
 
 ![Img](./media/Animations-1.gif)
 
-### 3.1.3.4 Download Code (Transfer a program that has been downloaded as a hex file)
+### 3.1.3.4 Download Code (Transfer a program that has been downloaded as a ".hex" file)
 
 Find the downloaded **heartbeat.hex** file and then drag and drop it to the MICROBIT drive.
 

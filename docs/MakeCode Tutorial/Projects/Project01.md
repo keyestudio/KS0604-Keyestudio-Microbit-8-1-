@@ -42,7 +42,7 @@ There are five SK6812 RGB LEDs on the servo expansion board, which can emit mult
 
 ![Img](./media/2bottom.png)
 
-#### 3.2.1.3 Required Parts
+#### 3.2.1.3 Materials Required
 
 ![Img](./media/A1-0.png)
 
@@ -170,13 +170,13 @@ There are five SK6812 RGB LEDs on the servo expansion board, which can emit mult
 
 ⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: You can obtain the sample code through the following two methods.</span>**
 
-##### **Method 1: Drag and drop code blocks to build the sample code.**
+##### **Method 1: Drag and drop code blocks to build the sample code**
 
 **1. MakeCode programming environment**
 
-The online version of MakeCode: <u>[MakeCode](https://makecode.microbit.org/#editor)</u>
+The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.org/#editor)</u>
 
-**2. Extension library**
+**2. Makecode extension library**
 
 ⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: </span>** Copy and paste `https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` to the search box to import the library.
 
@@ -194,7 +194,7 @@ Click to download the code file: <u>[3_3_1_Multifunctional_Car](./Codes/3_3_1_Mu
 
 **2. MakeCode programming environment**
 
-The online version of MakeCode: <u>[MakeCode](https://makecode.microbit.org/#editor)</u>
+The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.org/#editor)</u>
 
 **3. Load the sample code:**
 
@@ -236,11 +236,11 @@ Drag and drop the sample code to the MakeCode editor.
 
 Wire up and power on through micro USB cable, and and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
 
-Send the downloaded ".hex" file to the micro:bit V2 board. 
+To download the sample code using an online browser, you need to send the downloaded ".hex" file to the micro:bit V2 board. There are two ways as follows:
 
 **① Download through WebUSB**
 
-For browsers like **Google Chrome / Microsoft Edge**, you need to click “Connect Device” to pair the device first. After that, click “**Download**” to load the sample code to the micro:bit V2 board.
+For browsers like **Google Chrome / Microsoft Edge**, you need to click “**Connect Device**” to pair the device first. After that, click “**Download**” to load the sample code to the micro:bit V2 board.
 
 ![Img](./media/Animation-01.gif)
 
