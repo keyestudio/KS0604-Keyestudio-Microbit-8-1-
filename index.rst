@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KS0604 Keyestudio Micro:bit Variant Master 8-in-1 Programming Robot
+   :caption: KS0604 Micro:bit Variant Master 8-in-1 Programming Robot for lego
 
    README.md
    docs/Product Introduction/1.Product Introduction
