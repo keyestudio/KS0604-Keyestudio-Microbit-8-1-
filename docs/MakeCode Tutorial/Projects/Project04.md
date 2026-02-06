@@ -4,7 +4,7 @@
 
 ![Img](./media/top1.png)
 
-Here we build an electric crab with a Microbit V2 board, a servo expansion board, a 360° LEGO servo and some LEGO parts. We program to control it to perform some movements like its crawling through the Microbit V2 button A, B and A+B.
+Here we build an electric crab with a Microbit V2 board, a servo expansion board, a 360° LEGO servo and some LEGO parts. We program to control it to perform some movements like its crawling through the Microbit V2 buttons A, B and A+B.
 
 ![Img](./media/bottom1.png)
 
@@ -120,11 +120,11 @@ Here we build an electric crab with a Microbit V2 board, a servo expansion board
 
 ⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: You can obtain the sample code through the following two methods.</span>**
 
-##### **Method 1: Drag and drop code blocks to build the sample code**
+##### **Method 1: drag and drop code blocks to build the sample code**
 
 **1. MakeCode programming environment**
 
-The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.org/#editor)</u>
+The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.org/#editor)</u>
 
 **2. Makecode extension library**
 
@@ -132,21 +132,21 @@ The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.o
 
 ![Img](./media/Animation-4.gif)
 
-**3. Write sample code**
+**3. Write the sample code**
 
 ![Img](./media/dongtu-04.gif)
 
-##### **Method 2: Download the sample code file directly**
+##### **Method 2: download the sample code file directly**
 
-**1. Download the code file:**
+**1. Download the code file**
 
 Click to download the code file: <u>[3_3_4_Electric_Crab](./Codes/3_3_4_Electric_Crab.hex)</u>
 
-**2. MakeCode programming environment**  
+**2. MakeCode programming environment**
 
-The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.org/#editor)</u>
+The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.org/#editor)</u>
 
-**3. Load the sample code:**
+**3. Load the sample code**
 
 Drag and drop the sample code to the MakeCode editor.
 
@@ -160,13 +160,13 @@ Drag and drop the sample code to the MakeCode editor.
 
 Wire up and power on through micro USB cable, and and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
 
-To download the sample code using an online browser, you need to send the downloaded ".hex" file to the micro:bit V2 board. There are two ways as follows:
+To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the micro:bit V2 board. There are two ways as follows: 
 
 **① Download through WebUSB**
 
 For browsers like **Google Chrome / Microsoft Edge**, you need to click “**Connect Device**” to pair the device first. After that, click “**Download**” to load the sample code to the micro:bit V2 board.
 
-![Img](./media/Animation-04.gif)  
+![Img](./media/Animation-04.gif)
 
 **② Download without WebUSB**
 
@@ -180,11 +180,11 @@ Turn the DIP switched to the RGB and ON.
 
 ![Img](./media/CBA01.png)
 
-Press button A on the micro:bit V2 board and then release it, the electric crab walks in one direction, the five SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
+Press button A on the micro: bit V2 board and release it,  the electric crab walks in one direction, these SK6812 RGB LEDs emit green light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
 
-Press button B on the micro:bit V2 board and then release it, the electric crab walks in the opposite direction, the five SK6812 RGB LEDs emit cyan light, and the 5×5 LED matrix displays ![Img](./media/ab4.png).
+Press button B on the micro: bit V2 board and release it,  the electric crab walks in the opposite direction, these SK6812 RGB LEDs emit cyan light, and the 5×5 LED matrix displays ![Img](./media/ab4.png).
 
-Press buttons A and B on the micro:bit V2 board simultaneously and then release them, the electric crab stops, and the five SK6812 RGB LEDs and the 5×5 LED matrix turn off.
+Press button A and B on the micro: bit V2 board simultaneously and release them, the electric crab stops, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
 
 ![Img](./media/dongtu-004.gif)
 

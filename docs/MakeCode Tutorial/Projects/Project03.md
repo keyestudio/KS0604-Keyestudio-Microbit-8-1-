@@ -136,11 +136,11 @@ Here we build a sound-controlled animal with a Microbit V2 board, a servo expans
 
 4\. if()...else...
 
-When the condition in if() is satisfied, codes under then will execute. Or else, codes under else will run.
+When the condition in "if()" is satisfied, codes under "then" will execute. Or else, codes under "else" will run.
 
 ![Img](./media/if-else-1.png)
 
-5\. Read the sound level through the microphone on the micro:bit V2 board, ranging from 0(silent) to 255(maximum volume).
+5\. Read the sound level through the microphone in the micro:bit V2 board, ranging from 0(quiet) to 255(noise).
 
 ![Img](./media/soundlevel.png)
 
@@ -156,17 +156,17 @@ When the condition in if() is satisfied, codes under then will execute. Or else,
 
 #### 3.2.3.5 Test Code
 
-<span style="color: rgb(255, 76, 65);">The threshold 150 in if() can be modified according to actual conditions.</span>
+<span style="color: rgb(255, 76, 65);">The threshold 150 in "if()" can be modified according to actual conditions.</span>
 
 ![Img](./media/couj03.png)
 
+**There are two ways to get the code:**
+
 ⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: You can obtain the sample code through the following two methods.</span>**
 
-##### **Method 1: Drag and drop code blocks to build the sample code**
+##### **Method 1: drag and drop code blocks to build the sample code**
 
-**1. MakeCode programming environment**
-
-The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.org/#editor)</u>
+The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.org/#editor)</u>
 
 **2. Makecode extension library**
 
@@ -174,11 +174,11 @@ The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.o
 
 ![Img](./media/Animation-4.gif)
 
-**3. Write sample code**
+**3. Write the sample code:**
 
 ![Img](./media/dongtu-03.gif)
 
-##### **Method 2: Download the sample code file directly**
+##### **Method 2: download the sample code file directly**
 
 **1. Download the code file:**
 
@@ -186,7 +186,7 @@ Click to download the code file: <u>[3_3_3_Voice_Controlled_Animal](./Codes/3_3_
 
 **2. MakeCode programming environment**
 
-The online version of MakeCode: <u>[MakeCode Editor](https://makecode.microbit.org/#editor)</u>
+The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.org/#editor)</u>
 
 **3. Load the sample code:**
 
@@ -202,7 +202,7 @@ Drag and drop the sample code to the MakeCode editor.
 
 Wire up and power on through micro USB cable, and and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
 
-To download the sample code using an online browser, you need to send the downloaded ".hex" file to the micro:bit V2 board. There are two ways as follows:
+To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the micro:bit V2 board. There are two ways as follows: 
 
 **① Download through WebUSB**
 
@@ -222,9 +222,9 @@ Turn the DIP switched to the RGB and ON.
 
 ![Img](./media/CBA01.png)
 
-If the sound level ≥ 150 detected by the microphone on the micro:bit V2 board, the animal runs for 1s, the five SK6812 RGB LEDs emit colorful light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
+If the sound level ≥ 150 detected by the microphone on the micro: bit V2 board, the animal runs for 1s, these SK6812 RGB LEDs emit colorful light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
 
-If the sound level < 150, the animal stops running, and the five SK6812 RGB LEDs and the 5×5 LED matrix turn off.
+If the sound level < 150, the animal stops running, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
 
 ![Img](./media/dongtu-003.gif)
 
