@@ -4,7 +4,7 @@
 
 ![Img](./media/top1.png)
 
-Here we build a smart light following dog with a Microbit V2 board, a servo expansion board, a 360° LEGO servo and some LEGO parts. We program to control the dog to chase light through the Microbit 5×5 LED matrix.
+Here we build a smart light following dog with a Micro:bit V2 board, a servo expansion board, a 360° LEGO servo and some LEGO parts. We program to control the dog to chase light through the Micro:bit 5×5 LED matrix.
 
 ![Img](./media/bottom1.png)
 
@@ -122,7 +122,7 @@ The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.o
 
 ##### **Method 2: download the sample code file directly**
 
-**1. Download the code file:**
+**1. Download the code file**
 
 Click to download the code file: <u>[3_3_6_Smart_Light_Following_Dog](./Codes/3_3_6_Smart_Light_Following_Dog.hex)</u>
 
@@ -142,7 +142,7 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/4top.png)
 
-Wire up and power on through micro USB cable, and and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
+Wire up and power on through micro USB cable, and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
 
 To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the micro:bit V2 board. There are two ways as follows: 
 
@@ -170,7 +170,7 @@ If the light level ≥ 150 detected by the micro:bit V2 board, the light-followi
 
 If 10 < light level < 150, the light-following dog follows the light, these SK6812 RGB LEDs emit cyan light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
 
-If the light level ≤ 10, the light-following dog stops, and  these SK6812 RGB LEDs LEDs and the 5×5 LED matrix turn off.
+If the light level ≤ 10, the light-following dog stops, and these SK6812 RGB LEDs LEDs and the 5×5 LED matrix turn off.
 
 ![Img](./media/dongtu-006.gif)   
 

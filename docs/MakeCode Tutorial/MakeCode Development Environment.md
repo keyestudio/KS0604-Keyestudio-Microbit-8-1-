@@ -4,7 +4,7 @@
 
 **MakeCode Programming Environment:**
 
-Open the <u>[online version of MakeCode editor](https://makecode.microbit.org/#editor)</u>.
+Open the <u>[online version of MakeCode editor](https://makecode.microbit.org/#editor)</u> .
 
 MakeCode main interface:
 
@@ -48,13 +48,13 @@ Or click “**Python**” to switch to Python code:
 
 ### 3.1.3.1 Import Program in MakeCode
 
-1\. Click to download sample code: <u>[heartbeat](./heartbeat.7z)</u>.
+1\. Click to download sample code: <u>[heartbeat](./heartbeat.7z)</u> .
 
 2\. Connect the micro:bit V2 board to your computer via micro USB cable.
 
 ![Img](./media/A800.png)
 
-On the micro:bit V2 board, there is a yellow LED indicator that will flash when the micro:bit V2 board communicates with your computer through micro USB. 
+On the micro:bit V2 board, there is a yellow LED indicator that will flash when the micro:bit V2 board communicates with your computer through micro USB cable.
 
 ![Img](./media/A801.png)
 
@@ -62,7 +62,7 @@ Open **Finder (Mac) / File Explorer (Windows)** after connecting the micro: bit 
 
 ![Img](./media/A849.png)
 
-3\. There are two ways to import/update the stored code file(**.hex**) in <u>[MakeCode](https://makecode.microbit.org)</u>. We will take the file “**heartbeat**” as an example.
+3\. There are two ways to import/update the stored code file(**.hex**) in <u>[MakeCode](https://makecode.microbit.org)</u> . We will take the file “**heartbeat**” as an example.
 
 **Method 1:** Just click "**import**" on the main interface:
 
@@ -72,7 +72,7 @@ Open **Finder (Mac) / File Explorer (Windows)** after connecting the micro: bit 
 
 ![Img](./media/Animation-010.gif)
 
-<span style="color: rgb(255, 76, 65);">Note:</span> The micro:bit V2 board runs only one program at a time. Each time you download and send another "**.hex**" file to the device via the micro USB cable, it will erase the current one and replace it with a new one.
+**<span style="color: rgb(255, 76, 65);">Note:</span>** The micro:bit V2 board runs only one program at a time. Each time you download and send another "**.hex**" file to the device via the micro USB cable, it will erase the current one and replace it with a new one.
 
 ![Img](./media/Animation-011.gif)
 
@@ -84,9 +84,9 @@ For browsers like **Google Chrome / Microsoft Edge**, their WebUSB function allo
 
 ⚠️ **Tips**
 
-If there is no device for pairing in the interface, please see the <u>[device-webusb-troubleshoot](https://makecode.microbit.org/device/usb/webusb/troubleshoot)</u>.
+If there is no device for pairing in the interface, please see the <u>[device-webusb-troubleshoot](https://makecode.microbit.org/device/usb/webusb/troubleshoot)</u> .
 
-If the micro:bit firmware requires an update, please see <u>[how-to-update-the-firmware](https://microbit.org/guide/firmware/)</u>.
+If the micro:bit firmware requires an update, please see <u>[how-to-update-the-firmware](https://microbit.org/guide/firmware/)</u> .
 
 ### 3.1.3.3 Download sample code (non WebUSB functionality)
 
@@ -104,10 +104,10 @@ Or you can right-click on the "**heartbeat.hex**" file and select “**Send to -
 
 ![Img](./media/Animation-013.gif)
 
-After uploading the sample code program to the micro: bit V2 motherboard using any of the above methods, connect the micro: bit V2 board to the computer via micro USB cable and power on, and you can see the on-board 5 x 5 LED matrix repeatedly shows ![Img](./media/A903.png) and  ![Img](./media/A910.png).
+After uploading the sample code program to the micro:bit V2 board using any of the above methods, connect the micro:bit V2 board to the computer via micro USB cable and power on, and you can see the on-board 5 x 5 LED matrix repeatedly shows ![Img](./media/A903.png) and ![Img](./media/A910.png).
 
 ![Img](./media/A22.png)
 
-⚠️ **Tip 1:** There is also a get-stared guide for <u>[how to transfer code to the microbit from multiple device](https://microbit.org/get-started/user-guide/transfer-code-to-the-microbit)</u>.
+⚠️ **Tip 1:** There is also a get-stared guide for <u>[how to transfer code to the microbit from multiple device](https://microbit.org/get-started/user-guide/transfer-code-to-the-microbit)</u> .
 
 ⚠️ **Tip 2:** During each programing, the MICROBIT disk will automatically eject and return, and the **.hex** files you have copied to it will not be displayed. That is because the micro:bit V2 board only receives and runs the latest uploaded program rather than stores them.

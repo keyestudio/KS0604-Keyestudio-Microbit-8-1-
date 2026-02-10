@@ -4,7 +4,7 @@
 
 ![Img](./media/top1.png)
 
-Here we build a multifunctional car with a Microbit V2 board, a servo expansion board, two 360° LEGO servos, two wheels and some LEGO parts. We program to control the car through the Microbit V2 logo, buttons A/B and 5×5 LED matrix.
+Here we build a multifunctional car with a Micro:bit V2 board, a servo expansion board, two 360° LEGO servos, two wheels and some LEGO parts. We program to control the car through the Micro:bit V2 logo, buttons A/B and 5×5 LED matrix.
 
 ![Img](./media/bottom1.png)
 
@@ -24,21 +24,21 @@ This 360° LEGO servo boasts three lines: brown one for ground, red one for powe
 
 Parameters:
 
-- Operating voltage: 3V~6V
-- Pulse width: 500~2500μsec
+- Operating voltage: 3V ~ 6V
+- Pulse width: 500 ~ 2500μsec
 - Operating angle: 360° continuous rotation
-- No-load current: 65±20mA (3V test), 80±20mA (5V test)
-- No-load speed: 90±10r/min (3V test), 160±10r/min (5V test)
-- Motor speed: 12500±10% (3V test), 22000±10% (5V test)
-- Stop current: 0.70±0.2A (3V test), 1.1±0.2A (5V test)
-- Stop torque: 0.5±0.1kg-cm (3V test), 0.7±0.1kg-cm (5V test)
+- No-load current: 65 ± 20mA (3V test), 80 ± 20mA (5V test)
+- No-load speed: 90 ± 10r/min (3V test), 160 ± 10r/min (5V test)
+- Motor speed: 12500 ± 10% (3V test), 22000 ± 10% (5V test)
+- Stop current: 0.70 ± 0.2A (3V test), 1.1 ± 0.2A (5V test)
+- Stop torque: 0.5 ± 0.1kg-cm (3V test), 0.7 ± 0.1kg-cm (5V test)
 - Wiring: Orange for signal S, red for positive+(V/VCC), brown for negative-(G/GND)
 
 **SK6812 RGB LED**
 
 ![Img](./media/cou710.png)
 
-There are five SK6812 RGB LEDs on the expansion board, which can emit multiple colors of light, with adjustable brightness.
+There are five SK6812 RGB LEDs on the servo extension board, which can emit multiple colors of light. By mixing the different intensities of the three basic colors of red, green, and blue, various rich color lights can be generated, and the brightness of the color lights can be adjusted
 
 ![Img](./media/2bottom.png)
 
@@ -116,7 +116,7 @@ There are five SK6812 RGB LEDs on the expansion board, which can emit multiple c
 
 #### 3.2.1.5 Code Blocks
 
-1\. “on start”: codes in it run only once.
+1\. “**on start**”: codes in it run only once.
 
 ![Img](./media/on-start.png)
 
@@ -124,11 +124,11 @@ There are five SK6812 RGB LEDs on the expansion board, which can emit multiple c
 
 ![Img](./media/55LED.png)
 
-3\. Set the pin of the SK6812 RGB LED and the number of lit RGB LED.
+3\. Set the pin of these SK6812 RGB LEDs and the number of lit SK6812 RGB LEDs.
 
 ![Img](./media/RGBLED.png)
 
-4\. Set the brightness of the SK6812 RGB LED.
+4\. Set the brightness of these SK6812 RGB LEDs.
 
 ![Img](./media/RGBLED1.png)
 
@@ -140,7 +140,7 @@ There are five SK6812 RGB LEDs on the expansion board, which can emit multiple c
 
 ![Img](./media/logo.png)
 
-7\. Press (or simultaneously press) the buttons (A, B, or A+B) on the micro: bit V2 board and release them again，trigger and execute a series of actions within a code block.
+7\. Press (or simultaneously press) the buttons (A, B, or A+B) on the micro:bit V2 board and release them again，trigger and execute a series of actions within a code block.
 
 ![Img](./media/buttonAB.png)
 
@@ -152,11 +152,11 @@ There are five SK6812 RGB LEDs on the expansion board, which can emit multiple c
 
 ![Img](./media/arrow.png)
 
-10\. Set the color of light of the SK6812 RGB LEDs.
+10\. Set the color of light of these SK6812 RGB LEDs.
 
 ![Img](./media/color.png)
 
-11\. Set the pin, rotation direction (clockwise/counterclockwise) and speed(0~100%) of the 360° LEGO servo. 
+11\. Set the pin, rotation direction (clockwise / counterclockwise) and speed(0~100%) of the 360° LEGO servo. 
 
 ![Img](./media/360Servo.png)
 
@@ -188,7 +188,7 @@ The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.o
 
 ##### **Method 2: download the sample code file directly**
 
-**1. Download the code file:**
+**1. Download the code file**
 
 Click to download the code file: <u>[3_3_1_Multifunctional_Car](./Codes/3_3_1_Multifunctional_Car.hex)</u>
 
@@ -210,23 +210,23 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/cou00.png)
 
-② Touch the logo on the micro: bit V2 board, the car moves forward, these SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays "↑".
+② Touch the logo on the micro:bit V2 board, the car moves forward, these SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays "↑".
 
 ![Img](./media/cou01.png)
 
-③ Press button A on the micro: bit V2 board and release it, the car turns right, these SK6812 RGB LEDs light up in cyan, and the 5×5 LED matrix shows "←". 
+③ Press button A on the micro:bit V2 board and release it, the car turns right, these SK6812 RGB LEDs light up in cyan, and the 5×5 LED matrix shows "←". 
 
 ![Img](./media/cou02.png)
 
-④ Press button B on the micro: bit V2 board and release it, the car turns left, these SK6812 RGB LEDs light up in magenta, and the 5×5 LED matrix shows "→".  
+④ Press button B on the micro:bit V2 board and release it, the car turns left, these SK6812 RGB LEDs light up in magenta, and the 5×5 LED matrix shows "→".  
 
 ![Img](./media/cou03.png) 
 
-⑤ Press button A and B on the micro: bit V2 board simultaneously and release them, the car moves backward, these SK6812 RGB LEDs emit green light, and the 5×5 LED matrix displays "↓". 
+⑤ Press button A and B on the micro:bit V2 board simultaneously and release them, the car moves backward, these SK6812 RGB LEDs emit green light, and the 5×5 LED matrix displays "↓". 
 
 ![Img](./media/cou04.png)
 
-⑥ Face the 5×5 LED matrix on the micro: bit V2 board upwards, the car stops, and the RGB and the LED matrix turn off.
+⑥ Face the 5×5 LED matrix on the micro:bit V2 board upwards, the car stops, and the RGB and the LED matrix turn off.
 
 ![Img](./media/cou05.png)
 
@@ -234,7 +234,7 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/4top.png)
 
-Wire up and power on through micro USB cable, and and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
+Wire up and power on through micro USB cable, and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
 
 To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the micro:bit V2 board. There are two ways as follows: 
 
@@ -256,15 +256,15 @@ Turn the DIP switched to the RGB and ON.
 
 ![Img](./media/CBA01.png)
 
-Touch the logo on the micro: bit V2 board, the car moves forward, these SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays "↑"; 
+Touch the logo on the micro:bit V2 board, the car moves forward, these SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays "↑"; 
 
-Press button A and B on the micro: bit V2 board simultaneously and release them, the car moves backward, these SK6812 RGB LEDs emit green light, and the 5×5 LED matrix displays "↓". 
+Press button A and B on the micro:bit V2 board simultaneously and release them, the car moves backward, these SK6812 RGB LEDs emit green light, and the 5×5 LED matrix displays "↓". 
 
-Press button A on the micro: bit V2 board and release it, the car turns right, these SK6812 RGB LEDs light up in cyan, and the 5×5 LED matrix shows "←". 
+Press button A on the micro:bit V2 board and release it, the car turns right, these SK6812 RGB LEDs light up in cyan, and the 5×5 LED matrix shows "←". 
 
-Press button B on the micro: bit V2 board and release it, the car turns left, these SK6812 RGB LEDs light up in magenta, and the 5×5 LED matrix shows "→". 
+Press button B on the micro:bit V2 board and release it, the car turns left, these SK6812 RGB LEDs light up in magenta, and the 5×5 LED matrix shows "→". 
 
-Face the 5×5 LED matrix on the micro: bit V2 board upwards, the car stops, and these SK6812 RGB LEDs and the LED matrix turn off.
+Face the 5×5 LED matrix on the micro:bit V2 board upwards, the car stops, and these SK6812 RGB LEDs and the LED matrix turn off.
 
 ![Img](./media/dongtu-001.gif)
 

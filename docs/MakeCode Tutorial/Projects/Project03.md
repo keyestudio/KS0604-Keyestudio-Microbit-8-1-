@@ -4,7 +4,7 @@
 
 ![Img](./media/top1.png)
 
-Here we build a sound-controlled animal with a Microbit V2 board, a servo expansion board, a 360° LEGO servo and some LEGO parts. We program to control it to perform some movements through the Microbit V2 microphone.
+Here we build a sound-controlled animal with a Micro:bit V2 board, a servo expansion board, a 360° LEGO servo and some LEGO parts. We program to control it to perform some movements through the Micro:bit V2 microphone.
 
 ![Img](./media/bottom1.png)
 
@@ -122,11 +122,11 @@ Here we build a sound-controlled animal with a Microbit V2 board, a servo expans
 
 #### 3.2.3.4 Code Blocks
 
-1\. “on start”: codes in it run only once.
+1\. “**on start**”: codes in it run only once.
 
 ![Img](./media/on-start.png)
 
-2\. “forever”: codes in it run repeatedly.
+2\. “**forever**”: codes in it run repeatedly.
 
 ![Img](./media/forever.png)
 
@@ -160,8 +160,6 @@ When the condition in "if()" is satisfied, codes under "then" will execute. Or e
 
 ![Img](./media/couj03.png)
 
-**There are two ways to get the code:**
-
 ⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: You can obtain the sample code through the following two methods.</span>**
 
 ##### **Method 1: drag and drop code blocks to build the sample code**
@@ -180,7 +178,7 @@ The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.o
 
 ##### **Method 2: download the sample code file directly**
 
-**1. Download the code file:**
+**1. Download the code file**
 
 Click to download the code file: <u>[3_3_3_Voice_Controlled_Animal](./Codes/3_3_3_Voice_Controlled_Animal.hex)</u>
 
@@ -188,7 +186,7 @@ Click to download the code file: <u>[3_3_3_Voice_Controlled_Animal](./Codes/3_3_
 
 The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.org/#editor)</u>
 
-**3. Load the sample code:**
+**3. Load the sample code**
 
 Drag and drop the sample code to the MakeCode editor.
 
@@ -200,7 +198,7 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/4top.png)
 
-Wire up and power on through micro USB cable, and and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
+Wire up and power on through micro USB cable, and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
 
 To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the micro:bit V2 board. There are two ways as follows: 
 
@@ -222,7 +220,7 @@ Turn the DIP switched to the RGB and ON.
 
 ![Img](./media/CBA01.png)
 
-If the sound level ≥ 150 detected by the microphone on the micro: bit V2 board, the animal runs for 1s, these SK6812 RGB LEDs emit colorful light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
+If the sound level ≥ 150 detected by the microphone on the micro:bit V2 board, the animal runs for 1s, these SK6812 RGB LEDs emit colorful light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
 
 If the sound level < 150, the animal stops running, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
 

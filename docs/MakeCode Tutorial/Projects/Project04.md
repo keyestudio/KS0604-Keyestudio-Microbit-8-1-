@@ -4,7 +4,7 @@
 
 ![Img](./media/top1.png)
 
-Here we build an electric crab with a Microbit V2 board, a servo expansion board, a 360° LEGO servo and some LEGO parts. We program to control it to perform some movements like its crawling through the Microbit V2 buttons A, B and A+B.
+Here we build an electric crab with a Micro:bit V2 board, a servo expansion board, a 360° LEGO servo and some LEGO parts. We program to control it to perform some movements like its crawling through the Micro:bit V2 buttons A, B and A+B.
 
 ![Img](./media/bottom1.png)
 
@@ -158,7 +158,7 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/4top.png)
 
-Wire up and power on through micro USB cable, and and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
+Wire up and power on through micro USB cable, and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
 
 To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the micro:bit V2 board. There are two ways as follows: 
 
@@ -180,11 +180,11 @@ Turn the DIP switched to the RGB and ON.
 
 ![Img](./media/CBA01.png)
 
-Press button A on the micro: bit V2 board and release it,  the electric crab walks in one direction, these SK6812 RGB LEDs emit green light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
+Press button A on the micro:bit V2 board and release it,  the electric crab walks in one direction, these SK6812 RGB LEDs emit green light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
 
-Press button B on the micro: bit V2 board and release it,  the electric crab walks in the opposite direction, these SK6812 RGB LEDs emit cyan light, and the 5×5 LED matrix displays ![Img](./media/ab4.png).
+Press button B on the micro:bit V2 board and release it,  the electric crab walks in the opposite direction, these SK6812 RGB LEDs emit cyan light, and the 5×5 LED matrix displays ![Img](./media/ab4.png).
 
-Press button A and B on the micro: bit V2 board simultaneously and release them, the electric crab stops, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
+Press button A and B on the micro:bit V2 board simultaneously and release them, the electric crab stops, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
 
 ![Img](./media/dongtu-004.gif)
 
