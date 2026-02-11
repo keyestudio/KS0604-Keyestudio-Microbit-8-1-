@@ -116,7 +116,7 @@ There are five SK6812 RGB LEDs on the servo extension board, which can emit mult
 
 ### 3.2.1.5 Code Blocks
 
-1\. “**on start**”: codes in it run only once.
+1\. "**on start**": codes in it run only once.
 
 ![Img](./media/on-start.png)
 
@@ -156,7 +156,7 @@ There are five SK6812 RGB LEDs on the servo extension board, which can emit mult
 
 ![Img](./media/color.png)
 
-11\. Set the pin, rotation direction (clockwise / counterclockwise) and speed(0~100%) of the 360° LEGO servo. 
+11\. Set the pin, rotation direction (clockwise / counterclockwise) and speed (0~100%) of the 360° LEGO servo. 
 
 ![Img](./media/360Servo.png)
 
@@ -226,7 +226,7 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/cou04.png)
 
-⑥ Face the 5×5 LED matrix on the micro:bit V2 board upwards, the car stops, and the RGB and the LED matrix turn off.
+⑥ Face the 5×5 LED matrix on the micro:bit V2 board upwards, the car stops, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
 
 ![Img](./media/cou05.png)
 
@@ -240,7 +240,7 @@ To download the sample code using an online browser, you need to send the downlo
 
 **① Download through WebUSB**
 
-For browsers like **Google Chrome / Microsoft Edge**, you need to click “**Connect Device**” to pair the device first. After that, click “**Download**” to load the sample code to the micro:bit V2 board.
+For browsers like **Google Chrome / Microsoft Edge**, you need to click "**Connect Device**" to pair the device first. After that, click "**Download**" to load the sample code to the micro:bit V2 board.
 
 ![Img](./media/Animation-01.gif)
 

@@ -1,4 +1,4 @@
-## 3.1.1 About MakeCode (<span style="color: rgb(255, 76, 65);">must-read</span>)
+## 3.1.1 About MakeCode (<span style="color: rgb(255, 76, 65);">Must-Read</span>)
 
 ⚠️ **The following steps are operated on the Windows operating system. If you use another operating system, you can take them as a reference. Here are demonstrated on Google Chrome / Microsoft Edge.**
 
@@ -10,15 +10,15 @@ MakeCode main interface:
 
 ![Img](./media/A637.png)
 
-There are blocks “**on start**” and “**forever**” in the code editing area. When the power is plugged or reset, “on start” means that the code in the block only executes once, while “forever” implies that the code runs cyclically.
+There are blocks "**on start**" and "**forever**" in the code editing area. When the power is plugged or reset, "on start" means that the code in the block only executes once, while "forever" implies that the code runs cyclically.
 
 ![Img](./media/A75.png)
 
-Click  “**JS JavaScript**” to see the JavaScript code:
+Click  "**JS JavaScript**" to see the JavaScript code:
 
 ![Img](./media/A754.png)
 
-Or click “**Python**” to switch to Python code:
+Or click "**Python**" to switch to Python code:
 
 ![Img](./media/A814.png)
 
@@ -62,9 +62,9 @@ Open **Finder (Mac) / File Explorer (Windows)** after connecting the micro:bit V
 
 ![Img](./media/A849.png)
 
-3\. There are two ways to import/update the stored code file (**.hex**) in <u>[MakeCode](https://makecode.microbit.org)</u> . We will take the file “**heartbeat**” as an example.
+3\. There are two ways to import/update the stored code file (**.hex**) in <u>[MakeCode](https://makecode.microbit.org)</u> . We will take the file "**heartbeat**" as an example.
 
-**Method 1:** Just click "**import**" on the main interface:
+**Method 1:** Just click "**import**" on the main interface: 
 
 ![Img](./media/Animation-2.gif)
 
@@ -78,7 +78,7 @@ Open **Finder (Mac) / File Explorer (Windows)** after connecting the micro:bit V
 
 ### 3.1.3.2 Download sample code (WebUSB function)
 
-For browsers like **Google Chrome / Microsoft Edge**, their WebUSB function allows direct access to the micro USB hardware device through online web page. Click “**Connect Device**” to pair the device first. After that, click “**Download**” to load the code to the micro:bit V2 board.
+For browsers like **Google Chrome / Microsoft Edge**, their WebUSB function allows direct access to the micro USB hardware device through online web page. Click "**Connect Device**" to pair the device first. After that, click "**Download**" to load the code to the micro:bit V2 board.
 
 ![Img](./media/Animation.gif)
 
@@ -100,7 +100,7 @@ Find the downloaded "**heartbeat.hex**" file, and then drag and drop it to the *
 
 ![Img](./media/Animation-012.gif)
 
-Or you can right-click on the "**heartbeat.hex**" file and select “**Send to -> MICROBIT**”.
+Or you can right-click on the "**heartbeat.hex**" file and select "**Send to -> MICROBIT**".
 
 ![Img](./media/Animation-013.gif)
 

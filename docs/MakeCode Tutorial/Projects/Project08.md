@@ -168,7 +168,7 @@ To download the sample code using an online browser, you need to send the downlo
 
 **① Download through WebUSB**
 
-For browsers like **Google Chrome / Microsoft Edge**, you need to click “**Connect Device**” to pair the device first. After that, click “**Download**” to load the sample code to the micro:bit V2 board.
+For browsers like **Google Chrome / Microsoft Edge**, you need to click "**Connect Device**" to pair the device first. After that, click "**Download**" to load the sample code to the micro:bit V2 board.
 
 ![Img](./media/Animation-08.gif)
 
