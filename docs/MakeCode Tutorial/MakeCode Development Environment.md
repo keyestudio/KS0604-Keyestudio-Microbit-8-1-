@@ -4,7 +4,7 @@
 
 **MakeCode Programming Environment:**
 
-Enter the link：<u>[online version of MakeCode editor](https://makecode.microbit.org/#editor)</u> .
+Open the <u>[online version of MakeCode editor](https://makecode.microbit.org/#editor)</u> .
 
 MakeCode main interface:
 
@@ -32,7 +32,7 @@ Or click “**Python**” to switch to Python code:
 
 ⚠️ **We provide code files (.hex) for each projects, so you can directly load them to the MakeCode editor. Or if you want, you can also build code blocks by yourself. Note that libraries are required when build them manually.**
 
-[MakeCode online version](https://makecode.microbit.org/#editor)
+<u>[MakeCode online version](https://makecode.microbit.org/#editor)</u>
 
 ⚠️ **<span style="color: rgb(255, 76, 65);">Special Reminder:</span>** Copy and paste the link: `https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` into the search box, to add the corresponding library.
 

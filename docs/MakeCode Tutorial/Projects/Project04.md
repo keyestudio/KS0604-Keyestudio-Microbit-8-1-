@@ -180,9 +180,9 @@ Turn the DIP switched to the RGB and ON.
 
 ![Img](./media/CBA01.png)
 
-Press button A on the micro:bit V2 board and release it,  the electric crab walks in one direction, these SK6812 RGB LEDs emit green light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
+Press button A on the micro:bit V2 board and release it, the electric crab walks in one direction, these SK6812 RGB LEDs emit green light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
 
-Press button B on the micro:bit V2 board and release it,  the electric crab walks in the opposite direction, these SK6812 RGB LEDs emit cyan light, and the 5×5 LED matrix displays ![Img](./media/ab4.png).
+Press button B on the micro:bit V2 board and release it, the electric crab walks in the opposite direction, these SK6812 RGB LEDs emit cyan light, and the 5×5 LED matrix displays ![Img](./media/ab4.png).
 
 Press button A and B on the micro:bit V2 board simultaneously and release them, the electric crab stops, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
 
