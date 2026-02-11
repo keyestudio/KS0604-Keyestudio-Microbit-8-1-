@@ -1,6 +1,6 @@
-### 3.2.2 Swaying Boat
+## 3.2.2 Swaying Boat
 
-#### 3.2.2.1 Overview
+### 3.2.2.1 Overview
 
 ![Img](./media/top1.png)
 
@@ -8,11 +8,11 @@ Here we build a swaying boat with a Micro:bit V2 board, a servo expansion board,
 
 ![Img](./media/bottom1.png)
 
-#### 3.2.2.2 Materials Required
+### 3.2.2.2 Materials Required
 
 ![Img](./media/A2-0.png)
 
-#### 3.2.2.3 Installation Steps
+### 3.2.2.3 Installation Steps
 
 ![Img](./media/2top.png)
 
@@ -80,13 +80,13 @@ Here we build a swaying boat with a Micro:bit V2 board, a servo expansion board,
 
 ![Img](./media/2bottom.png)
 
-#### 3.2.2.4 Test Code
+### 3.2.2.4 Test Code
 
 ![Img](./media/couj02.png)
 
 ⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: You can obtain the sample code through the following two methods.</span>**
 
-##### **Method 1: drag and drop code blocks to build the sample code**
+#### **Method 1: drag and drop code blocks to build the sample code**
 
 **1. MakeCode programming environment**
 
@@ -94,7 +94,7 @@ The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.o
 
 **2. Makecode extension library**
 
-⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: </span>** Copy and paste `https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` to the search box to import the library.
+⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: </span>** Copy and paste the link: `https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` into the search box to import the library.
 
 ![Img](./media/Animation-4.gif)
 
@@ -102,7 +102,7 @@ The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.o
 
 ![Img](./media/dongtu-02.gif)
 
-##### **Method 2: download the sample code file directly**
+#### **Method 2: download the sample code file directly**
 
 **1. Download the code file**
 
@@ -120,7 +120,7 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/line1.png)
 
-#### 3.2.2.5 Test Result
+### 3.2.2.5 Test Result
 
 ![Img](./media/4top.png)
 

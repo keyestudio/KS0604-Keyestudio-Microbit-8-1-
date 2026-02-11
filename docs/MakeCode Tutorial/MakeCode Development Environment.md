@@ -1,10 +1,10 @@
-## 3.1.1 About MakeCode(<span style="color: rgb(255, 76, 65);">must-read</span>)
+## 3.1.1 About MakeCode (<span style="color: rgb(255, 76, 65);">must-read</span>)
 
 ⚠️ **The following steps are operated on the Windows operating system. If you use another operating system, you can take them as a reference. Here are demonstrated on Google Chrome / Microsoft Edge.**
 
 **MakeCode Programming Environment:**
 
-Open the <u>[online version of MakeCode editor](https://makecode.microbit.org/#editor)</u> .
+Enter the link：<u>[online version of MakeCode editor](https://makecode.microbit.org/#editor)</u> .
 
 MakeCode main interface:
 
@@ -58,17 +58,17 @@ On the micro:bit V2 board, there is a yellow LED indicator that will flash when 
 
 ![Img](./media/A801.png)
 
-Open **Finder (Mac) / File Explorer (Windows)** after connecting the micro: bit V2 board to the computer, and you can see a USB drive named "**MICROBIT**". Yet note that it is not a common disk!
+Open **Finder (Mac) / File Explorer (Windows)** after connecting the micro:bit V2 board to the computer, and you can see a USB drive named "**MICROBIT**". Yet note that it is not a common disk!
 
 ![Img](./media/A849.png)
 
-3\. There are two ways to import/update the stored code file(**.hex**) in <u>[MakeCode](https://makecode.microbit.org)</u> . We will take the file “**heartbeat**” as an example.
+3\. There are two ways to import/update the stored code file (**.hex**) in <u>[MakeCode](https://makecode.microbit.org)</u> . We will take the file “**heartbeat**” as an example.
 
 **Method 1:** Just click "**import**" on the main interface:
 
 ![Img](./media/Animation-2.gif)
 
-**Method 2:** Drag and drop the "**.hex**" file to the Makecode main interface or editing window:
+**Method 2:** Drag and drop the "**.hex**" file to the Makecode main interface or Makecode editing window:
 
 ![Img](./media/Animation-010.gif)
 
@@ -78,7 +78,7 @@ Open **Finder (Mac) / File Explorer (Windows)** after connecting the micro: bit 
 
 ### 3.1.3.2 Download sample code (WebUSB function)
 
-For browsers like **Google Chrome / Microsoft Edge**, their WebUSB function allows direct access to the micro USB hardware device through online web page. Click “**Connect Device**” to pair the device. After that, click “**Download**” to load the code to the micro:bit V2 board.
+For browsers like **Google Chrome / Microsoft Edge**, their WebUSB function allows direct access to the micro USB hardware device through online web page. Click “**Connect Device**” to pair the device first. After that, click “**Download**” to load the code to the micro:bit V2 board.
 
 ![Img](./media/Animation.gif)
 
@@ -96,7 +96,7 @@ For browsers like **Safari / Firefox / Other**, please load the sample code to t
 
 ### 3.1.3.4 Download sample Code (Transfer a program that has been downloaded as a .hex file)
 
-Find the downloaded "**heartbeat.hex**" file , and then drag and drop it to the **MICROBIT** drive.
+Find the downloaded "**heartbeat.hex**" file, and then drag and drop it to the **MICROBIT** drive.
 
 ![Img](./media/Animation-012.gif)
 
@@ -108,6 +108,6 @@ After uploading the sample code program to the micro:bit V2 board using any of t
 
 ![Img](./media/A22.png)
 
-⚠️ **Tip 1:** There is also a get-stared guide for <u>[how to transfer code to the microbit from multiple device](https://microbit.org/get-started/user-guide/transfer-code-to-the-microbit)</u> .
+⚠️ **Tip 1:** There is also a get-stared guide for <u>[how to transfer code to the micro:bit from multiple device](https://microbit.org/get-started/user-guide/transfer-code-to-the-microbit)</u> .
 
 ⚠️ **Tip 2:** During each programing, the MICROBIT disk will automatically eject and return, and the **.hex** files you have copied to it will not be displayed. That is because the micro:bit V2 board only receives and runs the latest uploaded program rather than stores them.
