@@ -92,7 +92,7 @@ When the condition in "if()" is satisfied, codes under "then" will execute. Or, 
 
 ![Img](./media/if-else.png)
 
-2\. Read the light level through the 5×5 LED matrix on the micro:bit V2 board, ranging from 0(dim) to 255(bright).
+2\. Read the light level through the 5×5 LED matrix on the micro:bit V2 board, ranging from 0 (dim) to 255 (bright).
 
 ![Img](./media/lightlevel.png)
 

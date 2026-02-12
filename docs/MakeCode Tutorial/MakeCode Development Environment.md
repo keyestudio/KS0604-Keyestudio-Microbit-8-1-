@@ -14,7 +14,7 @@ There are blocks "**on start**" and "**forever**" in the code editing area. When
 
 ![Img](./media/A75.png)
 
-Click  "**JS JavaScript**" to see the JavaScript code:
+Click "**JS JavaScript**" to see the JavaScript code:
 
 ![Img](./media/A754.png)
 
@@ -30,7 +30,7 @@ Or click "**Python**" to switch to Python code:
 
 ### 3.1.2.1 Add Library
 
-⚠️ **We provide code files (.hex) for each projects, so you can directly load them to the MakeCode editor. Or if you want, you can also build code blocks by yourself. Note that libraries are required when build them manually.**
+⚠️ **We provide code files (.hex) for each projects, so you can directly load them to the MakeCode editor. Or if you want, you can also drag and drop code blocks to build code by yourself. Note that libraries are required when build them manually.**
 
 <u>[MakeCode online version](https://makecode.microbit.org/#editor)</u>
 
@@ -44,7 +44,7 @@ Or click "**Python**" to switch to Python code:
 
 ![Img](./media/Animation-5.gif)
 
-## 3.1.3 MakeCode Program
+## 3.1.3 MakeCode Program (<span style="color: rgb(255, 76, 65);">Important</span>)
 
 ### 3.1.3.1 Import Program in MakeCode
 

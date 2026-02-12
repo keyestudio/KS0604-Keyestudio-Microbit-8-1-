@@ -4,7 +4,7 @@
 
 ![Img](./media/top1.png)
 
-Here we build a multifunctional car with a Micro:bit V2 board, a servo expansion board, two 360° LEGO servos, two wheels and some LEGO parts. We program to control the car through the Micro:bit V2 logo, buttons A/B and 5×5 LED matrix.
+Here we build a multifunctional car with a Micro:bit V2 board, a servo expansion board, two 360° LEGO servos, two wheels and some LEGO parts. We program to control the car through the Micro:bit V2 logo, buttons (A, B and A+B) and 5×5 LED matrix.
 
 ![Img](./media/bottom1.png)
 
@@ -32,7 +32,7 @@ Parameters:
 - Motor speed: 12500 ± 10% (3V test), 22000 ± 10% (5V test)
 - Stop current: 0.70 ± 0.2A (3V test), 1.1 ± 0.2A (5V test)
 - Stop torque: 0.5 ± 0.1kg-cm (3V test), 0.7 ± 0.1kg-cm (5V test)
-- Wiring: Orange for signal S, red for positive+(V/VCC), brown for negative-(G/GND)
+- Wiring: Orange for signal S, red for positive ( + / V / VCC ), brown for negative ( - / G / GND )
 
 **SK6812 RGB LED**
 
@@ -132,7 +132,7 @@ There are five SK6812 RGB LEDs on the servo extension board, which can emit mult
 
 ![Img](./media/RGBLED1.png)
 
-5\. Turn off the SK6812 RGB LED.
+5\. Turn off these SK6812 RGB LEDs.
 
 ![Img](./media/RGBclear.png)
 
@@ -256,7 +256,7 @@ Turn the DIP switched to the RGB and ON.
 
 ![Img](./media/CBA01.png)
 
-Touch the logo on the micro:bit V2 board, the car moves forward, these SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays "↑"; 
+Touch the logo on the micro:bit V2 board, the car moves forward, these SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays "↑".
 
 Press button A and B on the micro:bit V2 board simultaneously and release them, the car moves backward, these SK6812 RGB LEDs emit green light, and the 5×5 LED matrix displays "↓". 
 
