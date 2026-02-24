@@ -130,7 +130,7 @@ Here we build a hovering hawk with a Micro:bit V2 board, a servo expansion board
 
 The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.org/#editor)</u>
 
-**2. Makecode extension library**
+**2. MakeCode extension library**
 
 ⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: </span>** Copy and paste the link: `https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` into the search box to import the library.
 

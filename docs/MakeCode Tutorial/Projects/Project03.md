@@ -136,7 +136,7 @@ Here we build a sound-controlled animal with a Micro:bit V2 board, a servo expan
 
 4\. if()...else...
 
-When the condition in "if()" is satisfied, codes under "then" will execute. Or else, codes under "else" will run.
+When the condition in "if()" is satisfied, codes under "then" will execute; Or else, codes under "else" will run.
 
 ![Img](./media/if-else-1.png)
 
@@ -164,9 +164,11 @@ When the condition in "if()" is satisfied, codes under "then" will execute. Or e
 
 #### **Method 1: drag and drop code blocks to build the sample code**
 
+**1. MakeCode programming environment**
+
 The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.org/#editor)</u>
 
-**2. Makecode extension library**
+**2. MakeCode extension library**
 
 ⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: </span>** Copy and paste the link: `https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` into the search box to import the library.
 

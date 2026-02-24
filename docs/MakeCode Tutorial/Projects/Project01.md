@@ -32,13 +32,13 @@ Parameters:
 - Motor speed: 12500 ± 10% (3V test), 22000 ± 10% (5V test)
 - Stop current: 0.70 ± 0.2A (3V test), 1.1 ± 0.2A (5V test)
 - Stop torque: 0.5 ± 0.1kg-cm (3V test), 0.7 ± 0.1kg-cm (5V test)
-- Wiring: Orange for signal S, red for positive ( + / V / VCC ), brown for negative ( - / G / GND )
+- Wiring: Orange for signal S, red for positive ( + / V / VCC / 5V ), brown for negative ( - / G / GND )
 
 **SK6812 RGB LED**
 
 ![Img](./media/cou710.png)
 
-There are five SK6812 RGB LEDs on the servo extension board, which can emit multiple colors of light. By mixing the different intensities of the three basic colors of red, green, and blue, various rich color lights can be generated, and the brightness of the color lights can be adjusted
+There are five SK6812 RGB LEDs on the servo extension board, which can emit multiple colors of light. By mixing the different intensities of the three basic colors of red, green, and blue, various rich color lights can be generated, and the brightness of the color lights can be adjusted.
 
 ![Img](./media/2bottom.png)
 
@@ -176,7 +176,7 @@ There are five SK6812 RGB LEDs on the servo extension board, which can emit mult
 
 The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.org/#editor)</u>
 
-**2. Makecode extension library**
+**2. MakeCode extension library**
 
 ⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: </span>** Copy and paste the link: `https://github.com/keyestudio2019/pxt-creative-inventors-kit-master.git` into the search box to import the library.
 
