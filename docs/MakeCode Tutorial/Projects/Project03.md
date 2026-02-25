@@ -1,5 +1,7 @@
 ## 3.2.3 Sound-controlled Animal 
 
+---------------
+
 ### 3.2.3.1 Overview
 
 ![Img](./media/top1.png)
@@ -8,9 +10,13 @@ Here we build a sound-controlled animal with a Micro:bit V2 board, a servo expan
 
 ![Img](./media/bottom1.png)
 
+---------------
+
 ### 3.2.3.2 Materials Required
 
 ![Img](./media/A3-0.png)
+
+---------------
 
 ### 3.2.3.3 Installation Steps
 
@@ -120,6 +126,8 @@ Here we build a sound-controlled animal with a Micro:bit V2 board, a servo expan
 
 ![Img](./media/2bottom.png)
 
+---------------
+
 ### 3.2.3.4 Code Blocks
 
 1\. “**on start**”: codes in it run only once.
@@ -153,6 +161,8 @@ When the condition in "if()" is satisfied, codes under "then" will execute; Or e
 7\. Delay.
 
 ![Img](./media/delaytime.png)
+
+---------------
 
 ### 3.2.3.5 Test Code
 
@@ -196,6 +206,8 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/line1.png)
 
+---------------
+
 ### 3.2.3.6 Test Result
 
 ![Img](./media/4top.png)
@@ -229,4 +241,6 @@ If the sound level < 150, the animal stops running, and these SK6812 RGB LEDs an
 ![Img](./media/dongtu-003.gif)
 
 ![Img](./media/4bottom.png)
+
+---------------
 

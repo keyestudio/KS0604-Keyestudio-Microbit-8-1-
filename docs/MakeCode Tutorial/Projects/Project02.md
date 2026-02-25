@@ -1,5 +1,7 @@
 ## 3.2.2 Swaying Boat
 
+---------------
+
 ### 3.2.2.1 Overview
 
 ![Img](./media/top1.png)
@@ -8,9 +10,13 @@ Here we build a swaying boat with a Micro:bit V2 board, a servo expansion board,
 
 ![Img](./media/bottom1.png)
 
+---------------
+
 ### 3.2.2.2 Materials Required
 
 ![Img](./media/A2-0.png)
+
+---------------
 
 ### 3.2.2.3 Installation Steps
 
@@ -80,6 +86,8 @@ Here we build a swaying boat with a Micro:bit V2 board, a servo expansion board,
 
 ![Img](./media/2bottom.png)
 
+---------------
+
 ### 3.2.2.4 Test Code
 
 ![Img](./media/couj02.png)
@@ -120,6 +128,8 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/line1.png)
 
+---------------
+
 ### 3.2.2.5 Test Result
 
 ![Img](./media/4top.png)
@@ -155,3 +165,5 @@ Press button A and B on the micro:bit V2 board simultaneously and release them, 
 ![Img](./media/dongtu-002.gif)
 
 ![Img](./media/4bottom.png)
+
+---------------

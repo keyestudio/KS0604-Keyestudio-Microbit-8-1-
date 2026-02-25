@@ -1,5 +1,7 @@
 ## 3.2.5 Flywheel Bike
 
+---------------
+
 ### 3.2.5.1 Overview
 
 ![Img](./media/top1.png)
@@ -8,9 +10,13 @@ Here we build a flywheel bike with a Micro:bit V2 board, a servo expansion board
 
 ![Img](./media/bottom1.png)
 
+---------------
+
 ### 3.2.5.2 Materials Required
 
 ![Img](./media/A5-0.png)
+
+---------------
 
 ### 3.2.5.3 Installation Steps
 
@@ -104,6 +110,8 @@ Here we build a flywheel bike with a Micro:bit V2 board, a servo expansion board
 
 ![Img](./media/2bottom.png)
 
+---------------
+
 ### 3.2.5.4 Test Code
 
 ![Img](./media/couj05.png)
@@ -144,6 +152,8 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/line1.png)
 
+---------------
+
 ### 3.2.5.5 Test Result
 
 ![Img](./media/4top.png)
@@ -172,8 +182,10 @@ Turn the DIP switched to the RGB and ON.
 
 Press button A on the micro:bit V2 board and release it, the flywheel bike moves with its flywheel spinning, these SK6812 RGB LEDs emit colorful light and the 5×5 LED matrix displays ![Img](./media/ab3.png).
 
-Press button B on the micro:bit V2 board and release it, the flywheel bike and its flywheel stop, and these SK6812 RGB and the 5×5 LED matrix turn off.
+Press button B on the micro:bit V2 board and release it, the flywheel bike and its flywheel stop, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
 
 ![Img](./media/dongtu-005.gif)
 
 ![Img](./media/4bottom.png)
+
+---------------

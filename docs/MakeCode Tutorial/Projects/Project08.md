@@ -1,5 +1,7 @@
 ## 3.2.8 Hovering Hawk
 
+---------------
+
 ### 3.2.8.1 Overview
 
 ![Img](./media/top1.png)
@@ -8,9 +10,13 @@ Here we build a hovering hawk with a Micro:bit V2 board, a servo expansion board
 
 ![Img](./media/bottom1.png)
 
+---------------
+
 ### 3.2.8.2 Materials Required
 
 ![Img](./media/A8-0.png)
+
+---------------
 
 ### 3.2.8.3 Installation Steps
 
@@ -118,6 +124,8 @@ Here we build a hovering hawk with a Micro:bit V2 board, a servo expansion board
 
 ![Img](./media/2bottom.png)
 
+---------------
+
 ### 3.2.8.4 Test Code
 
 ![Img](./media/couj08.png)
@@ -158,6 +166,8 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/line1.png)
 
+---------------
+
 ### 3.2.8.5 Test Result
 
 ![Img](./media/4top.png)
@@ -172,7 +182,7 @@ For browsers like **Google Chrome / Microsoft Edge**, you need to click "**Conne
 
 ![Img](./media/Animation-08.gif)
 
-**② Download without WebUSB**
+**② Download without WebUSB** 
 
 For browsers like **Safari / Firefox / Other**, download and send the sample code to the micro:bit V2 board.
 
@@ -190,5 +200,7 @@ Press button B on the micro:bit V2 board and release it, the wings flap rapidly,
 
 Press button A and B on the micro:bit V2 board simultaneously and release them, the wings stop, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
 
-![Img](./media/dongtu-008.gif)
+![Img](./media/dongtu-008.gif) 
+
+---------------
 

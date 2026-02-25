@@ -1,5 +1,7 @@
 ## 3.2.4 Electric Crab 
 
+---------------
+
 ### 3.2.4.1 Overview
 
 ![Img](./media/top1.png)
@@ -8,9 +10,13 @@ Here we build an electric crab with a Micro:bit V2 board, a servo expansion boar
 
 ![Img](./media/bottom1.png)
 
+---------------
+
 ### 3.2.4.2 Materials Required
 
 ![Img](./media/A4-0.png)
+
+---------------
 
 ### 3.2.4.3 Installation Steps
 
@@ -114,6 +120,8 @@ Here we build an electric crab with a Micro:bit V2 board, a servo expansion boar
 
 ![Img](./media/2bottom.png)
 
+---------------
+
 ### 3.2.4.5 Test Code
 
 ![Img](./media/couj04.png)
@@ -154,6 +162,8 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/line1.png)
 
+---------------
+
 ### 3.2.4.6 Test Result
 
 ![Img](./media/4top.png)
@@ -189,3 +199,5 @@ Press button A and B on the micro:bit V2 board simultaneously and release them, 
 ![Img](./media/dongtu-004.gif)
 
 ![Img](./media/4bottom.png)
+
+---------------

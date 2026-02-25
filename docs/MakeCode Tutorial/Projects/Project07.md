@@ -1,5 +1,7 @@
 ## 3.2.7 Ferris Wheel
 
+---------------
+
 ### 3.2.7.1 Overview
 
 ![Img](./media/top1.png)
@@ -8,9 +10,13 @@ Here we build a Ferris wheel with a Micro:bit V2 board, a servo expansion board,
 
 ![Img](./media/bottom1.png)
 
+---------------
+
 ### 3.2.7.2 Materials Required
 
 ![Img](./media/A7-0.png)
+
+---------------
 
 ### 3.2.7.3 Installation Steps
 
@@ -112,6 +118,8 @@ Here we build a Ferris wheel with a Micro:bit V2 board, a servo expansion board,
 
 ![Img](./media/2bottom.png)
 
+---------------
+
 ### 3.2.7.4 Test Code
 
 ![Img](./media/couj07.png)
@@ -152,6 +160,8 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/line1.png)
 
+---------------
+
 ### 3.2.7.5 Test Result
 
 ![Img](./media/4top.png)
@@ -185,3 +195,5 @@ Press button B on the micro:bit V2 board and release it, the Ferris wheel stops,
 ![Img](./media/dongtu-007.gif)
 
 ![Img](./media/4bottom.png)
+
+---------------

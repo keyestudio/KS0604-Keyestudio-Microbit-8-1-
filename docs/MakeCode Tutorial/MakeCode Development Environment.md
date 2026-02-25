@@ -26,6 +26,8 @@ Or click "**Python**" to switch to Python code:
 
 ![Img](./media/Animation-3.gif)
 
+---------------
+
 ## 3.1.2 Makecode Extension Library (<span style="color: rgb(255, 76, 65);">Important</span>)
 
 ### 3.1.2.1 Add Library
@@ -43,6 +45,8 @@ Or click "**Python**" to switch to Python code:
 ⚠️ **<span style="color: rgb(255, 76, 65);">Special reminder: Generally, there is no need to remove libraries, unless they are not required. This section is only for learning how to delete unnecessary library files.</span>**
 
 ![Img](./media/Animation-5.gif)
+
+---------------
 
 ## 3.1.3 MakeCode Program (<span style="color: rgb(255, 76, 65);">Important</span>)
 
@@ -104,10 +108,14 @@ Or you can right-click on the "**heartbeat.hex**" file and select "**Send to -> 
 
 ![Img](./media/Animation-013.gif)
 
-After uploading the sample code program to the micro:bit V2 board using any of the above methods, connect the micro:bit V2 board to the computer via micro USB cable and power on, and you can see the on-board 5 x 5 LED matrix repeatedly shows ![Img](./media/A903.png) and ![Img](./media/A910.png).
+After uploading the sample code program to the micro:bit V2 board using any of the above methods, connect the micro:bit V2 board to the computer via micro USB cable and power on, and you can see the on-board 5x5 LED matrix repeatedly shows ![Img](./media/A903.png) and ![Img](./media/A910.png).
 
 ![Img](./media/A22.png)
 
 ⚠️ **Tip 1:** There is also a get-stared guide for <u>[how to transfer code to the micro:bit from multiple device](https://microbit.org/get-started/user-guide/transfer-code-to-the-microbit)</u> .
 
 ⚠️ **Tip 2:** During each programing, the MICROBIT disk will automatically eject and return, and the **.hex** files you have copied to it will not be displayed. That is because the micro:bit V2 board only receives and runs the latest uploaded program rather than stores them.
+
+---------------
+
+读书读聋了屁

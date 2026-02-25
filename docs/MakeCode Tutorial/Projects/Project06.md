@@ -1,5 +1,7 @@
 ## 3.2.6 Smart Light Following Dog
 
+---------------
+
 ### 3.2.6.1 Overview
 
 ![Img](./media/top1.png)
@@ -8,9 +10,13 @@ Here we build a smart light following dog with a Micro:bit V2 board, a servo exp
 
 ![Img](./media/bottom1.png)
 
+---------------
+
 ### 3.2.6.2 Materials Required
 
 ![Img](./media/A6-0.png)
+
+---------------
 
 ### 3.2.6.3 Installation Steps
 
@@ -84,6 +90,8 @@ Here we build a smart light following dog with a Micro:bit V2 board, a servo exp
 
 ![Img](./media/2bottom.png)
 
+---------------
+
 ### 3.2.6.4 Code Blocks
 
 1\. if()...else if()...else...
@@ -95,6 +103,8 @@ When the condition in "if()" is satisfied, codes under "then" will execute. Or, 
 2\. Read the light level through the 5×5 LED matrix on the micro:bit V2 board, ranging from 0 (dim) to 255 (bright).
 
 ![Img](./media/lightlevel.png)
+
+---------------
 
 ### 3.2.6.5 Test Code
 
@@ -138,6 +148,8 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/line1.png)
 
+---------------
+
 ### 3.2.6.6 Test Result
 
 ![Img](./media/4top.png)
@@ -170,9 +182,11 @@ If the light level ≥ 150 detected by the micro:bit V2 board, the light-followi
 
 If 10 < light level < 150, the light-following dog follows the light, these SK6812 RGB LEDs emit cyan light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
 
-If the light level ≤ 10, the light-following dog stops, and these SK6812 RGB LEDs LEDs and the 5×5 LED matrix turn off.
+If the light level ≤ 10, the light-following dog stops, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
 
 ![Img](./media/dongtu-006.gif)   
 
 ![Img](./media/4bottom.png)
+
+---------------
 
