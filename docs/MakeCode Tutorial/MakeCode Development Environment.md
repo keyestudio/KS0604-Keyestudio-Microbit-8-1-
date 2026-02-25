@@ -118,4 +118,4 @@ After uploading the sample code program to the micro:bit V2 board using any of t
 
 ---------------
 
-读书读聋了屁
+
