@@ -54,15 +54,15 @@ Or click "**Python**" to switch to Python code:
 
 1\. Click to download sample code: <u>[heartbeat](./heartbeat.7z)</u> .
 
-2\. Connect the micro:bit V2 board to your computer via micro USB cable.
+2\. Connect the Micro:bit V2 board to your computer via Micro USB cable.
 
 ![Img](./media/A800.png)
 
-On the micro:bit V2 board, there is a yellow LED indicator that will flash when the micro:bit V2 board communicates with your computer through micro USB cable.
+On the Micro:bit V2 board, there is a yellow LED indicator that will flash when the Micro:bit V2 board communicates with your computer through Micro USB cable.
 
 ![Img](./media/A801.png)
 
-Open **Finder (Mac) / File Explorer (Windows)** after connecting the micro:bit V2 board to the computer, and you can see a USB drive named "**MICROBIT**". Yet note that it is not a common disk!
+Open **Finder (Mac) / File Explorer (Windows)** after connecting the Micro:bit V2 board to the computer, and you can see a USB drive named "**MICROBIT**". Yet note that it is not a common disk!
 
 ![Img](./media/A849.png)
 
@@ -76,13 +76,13 @@ Open **Finder (Mac) / File Explorer (Windows)** after connecting the micro:bit V
 
 ![Img](./media/Animation-010.gif)
 
-**<span style="color: rgb(255, 76, 65);">Note:</span>** The micro:bit V2 board runs only one program at a time. Each time you download and send another "**.hex**" file to the device via the micro USB cable, it will erase the current one and replace it with a new one.
+**<span style="color: rgb(255, 76, 65);">Note:</span>** The Micro:bit V2 board runs only one program at a time. Each time you download and send another "**.hex**" file to the device via the Micro USB cable, it will erase the current one and replace it with a new one.
 
 ![Img](./media/Animation-011.gif)
 
 ### 3.1.3.2 Download sample code (WebUSB function)
 
-For browsers like **Google Chrome / Microsoft Edge**, their WebUSB function allows direct access to the micro USB hardware device through online web page. Click "**Connect Device**" to pair the device first. After that, click "**Download**" to load the code to the micro:bit V2 board.
+For browsers like **Google Chrome / Microsoft Edge**, their WebUSB function allows direct access to the Micro USB hardware device through online web page. Click "**Connect Device**" to pair the device first. After that, click "**Download**" to load the code to the Micro:bit V2 board.
 
 ![Img](./media/Animation.gif)
 
@@ -90,11 +90,11 @@ For browsers like **Google Chrome / Microsoft Edge**, their WebUSB function allo
 
 If there is no device for pairing in the interface, please see the <u>[device-webusb-troubleshoot](https://makecode.microbit.org/device/usb/webusb/troubleshoot)</u> .
 
-If the micro:bit firmware requires an update, please see <u>[how-to-update-the-firmware](https://microbit.org/guide/firmware/)</u> .
+If the Micro:bit firmware requires an update, please see <u>[how-to-update-the-firmware](https://microbit.org/guide/firmware/)</u> .
 
 ### 3.1.3.3 Download sample code (non WebUSB functionality)
 
-For browsers like **Safari / Firefox / Other**, please load the sample code to the micro:bit V2 board as follows:
+For browsers like **Safari / Firefox / Other**, please load the sample code to the Micro:bit V2 board as follows:
 
 ![Img](./media/Animations-1.gif)
 
@@ -108,13 +108,13 @@ Or you can right-click on the "**heartbeat.hex**" file and select "**Send to -> 
 
 ![Img](./media/Animation-013.gif)
 
-After uploading the sample code program to the micro:bit V2 board using any of the above methods, connect the micro:bit V2 board to the computer via micro USB cable and power on, and you can see the on-board 5x5 LED matrix repeatedly shows ![Img](./media/A903.png) and ![Img](./media/A910.png).
+After uploading the sample code program to the Micro:bit V2 board using any of the above methods, connect the Micro:bit V2 board to the computer via Micro USB cable and power on, and you can see the on-board 5x5 LED matrix repeatedly shows ![Img](./media/A903.png) and ![Img](./media/A910.png).
 
 ![Img](./media/A22.png)
 
 ⚠️ **Tip 1:** There is also a get-stared guide for <u>[how to transfer code to the micro:bit from multiple device](https://microbit.org/get-started/user-guide/transfer-code-to-the-microbit)</u> .
 
-⚠️ **Tip 2:** During each programing, the MICROBIT disk will automatically eject and return, and the **.hex** files you have copied to it will not be displayed. That is because the micro:bit V2 board only receives and runs the latest uploaded program rather than stores them.
+⚠️ **Tip 2:** During each programing, the MICROBIT disk will automatically eject and return, and the **.hex** files you have copied to it will not be displayed. That is because the Micro:bit V2 board only receives and runs the latest uploaded program rather than stores them.
 
 ---------------
 

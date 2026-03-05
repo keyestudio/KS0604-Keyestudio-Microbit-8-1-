@@ -136,31 +136,31 @@ Drag and drop the sample code to the MakeCode editor.
 
 Wire up and power on through micro USB cable, and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
 
-To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the micro:bit V2 board. There are two ways as follows: 
+To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the Micro:bit V2 board. There are two ways as follows: 
 
 **① Download through WebUSB**
 
-For browsers like **Google Chrome / Microsoft Edge**, you need to click "**Connect Device**" to pair the device first. After that, click "**Download**" to load the sample code to the micro:bit V2 board.
+For browsers like **Google Chrome / Microsoft Edge**, you need to click "**Connect Device**" to pair the device first. After that, click "**Download**" to load the sample code to the Micro:bit V2 board.
 
 ![Img](./media/Animation-02.gif)
 
 **② Download without WebUSB**
 
-For browsers like **Safari / Firefox / Other**, download and send the sample code to the micro:bit V2 board.
+For browsers like **Safari / Firefox / Other**, download and send the sample code to the Micro:bit V2 board.
 
 ![Img](./media/Animation-002.gif)
 
-After downloading the sample code, unplug the micro USB cable to the micro:bit V2 board.
+After downloading the sample code, unplug the Micro USB cable to the Micro:bit V2 board.
 
 Turn the DIP switched to the RGB and ON.
 
 ![Img](./media/CBA01.png)
 
-Press button A on the micro:bit V2 board and release it, the swaying boat glides forward, these SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
+Press button A on the Micro:bit V2 board and release it, the swaying boat glides forward, these SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
 
-Press button B on the micro:bit V2 board and release it, the swaying boat glides backward, these SK6812 RGB LEDs emit orange light, and the 5×5 LED matrix displays ![Img](./media/ab1.png).
+Press button B on the Micro:bit V2 board and release it, the swaying boat glides backward, these SK6812 RGB LEDs emit orange light, and the 5×5 LED matrix displays ![Img](./media/ab1.png).
 
-Press button A and B on the micro:bit V2 board simultaneously and release them, the swaying boat stops, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
+Press button A and B on the Micro:bit V2 board simultaneously and release them, the swaying boat stops, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
 
 ![Img](./media/dongtu-002.gif)
 

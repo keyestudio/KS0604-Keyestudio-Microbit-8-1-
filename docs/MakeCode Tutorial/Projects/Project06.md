@@ -100,7 +100,7 @@ When the condition in "if()" is satisfied, codes under "then" will execute. Or, 
 
 ![Img](./media/if-else.png)
 
-2\. Read the light level through the 5×5 LED matrix on the micro:bit V2 board, ranging from 0 (dim) to 255 (bright).
+2\. Read the light level through the 5×5 LED matrix on the Micro:bit V2 board, ranging from 0 (dim) to 255 (bright).
 
 ![Img](./media/lightlevel.png)
 
@@ -154,31 +154,31 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/4top.png)
 
-Wire up and power on through micro USB cable, and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
+Wire up and power on through Micro USB cable, and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
 
-To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the micro:bit V2 board. There are two ways as follows: 
+To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the Micro:bit V2 board. There are two ways as follows: 
 
 **① Download through WebUSB**
 
-For browsers like **Google Chrome / Microsoft Edge**, you need to click "**Connect Device**" to pair the device first. After that, click "**Download**" to load the sample code to the micro:bit V2 board.
+For browsers like **Google Chrome / Microsoft Edge**, you need to click "**Connect Device**" to pair the device first. After that, click "**Download**" to load the sample code to the Micro:bit V2 board.
 
 ![Img](./media/Animation-06.gif)
 
 **② Download without WebUSB**
 
-For browsers like **Safari / Firefox / Other**, download and send the sample code to the micro:bit V2 board.
+For browsers like **Safari / Firefox / Other**, download and send the sample code to the Micro:bit V2 board.
 
 ![Img](./media/Animation-006.gif)
 
-After downloading the sample code, unplug the micro USB cable to the micro:bit V2 board.
+After downloading the sample code, unplug the Micro USB cable to the Micro:bit V2 board.
 
 Turn the DIP switched to the RGB and ON.
 
 ![Img](./media/CBA01.png)
 
-Shine a light source (such as your phone's flashlight) onto the 5×5 LED matrix on the micro:bit V2 board.
+Shine a light source (such as your phone's flashlight) onto the 5×5 LED matrix on the Micro:bit V2 board.
 
-If the light level ≥ 150 detected by the micro:bit V2 board, the light-following dog steps back with the light, these SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays ![Img](./media/ab5.png).
+If the light level ≥ 150 detected by the Micro:bit V2 board, the light-following dog steps back with the light, these SK6812 RGB LEDs emit red light, and the 5×5 LED matrix displays ![Img](./media/ab5.png).
 
 If 10 < light level < 150, the light-following dog follows the light, these SK6812 RGB LEDs emit cyan light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
 

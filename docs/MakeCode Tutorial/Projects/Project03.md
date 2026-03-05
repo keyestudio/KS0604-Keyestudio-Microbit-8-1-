@@ -148,7 +148,7 @@ When the condition in "if()" is satisfied, codes under "then" will execute; Or e
 
 ![Img](./media/if-else-1.png)
 
-5\. Read the sound level through the microphone in the micro:bit V2 board, ranging from 0(quiet) to 255(noise).
+5\. Read the sound level through the microphone in the Micro:bit V2 board, ranging from 0(quiet) to 255(noise).
 
 ![Img](./media/soundlevel.png)
 
@@ -212,29 +212,29 @@ Drag and drop the sample code to the MakeCode editor.
 
 ![Img](./media/4top.png)
 
-Wire up and power on through micro USB cable, and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
+Wire up and power on through Micro USB cable, and connect an external power source (four AAA-1.5V batteries installed in the battery box, ensuring sufficient power).
 
-To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the micro:bit V2 board. There are two ways as follows: 
+To download the sample code using an online browser, you need to send the downloaded "**.hex**" file to the Micro:bit V2 board. There are two ways as follows: 
 
 **① Download through WebUSB**
 
-For browsers like **Google Chrome / Microsoft Edge**, you need to click "**Connect Device**" to pair the device first. After that, click "**Download**" to load the sample code to the micro:bit V2 board.
+For browsers like **Google Chrome / Microsoft Edge**, you need to click "**Connect Device**" to pair the device first. After that, click "**Download**" to load the sample code to the Micro:bit V2 board.
 
 ![Img](./media/Animation-03.gif)
 
 **② Download without WebUSB**
 
-For browsers like **Safari / Firefox / Other**, download and send the sample code to the micro:bit V2 board.
+For browsers like **Safari / Firefox / Other**, download and send the sample code to the Micro:bit V2 board.
 
 ![Img](./media/Animation-003.gif)
 
-After downloading the sample code, unplug the micro USB cable to the micro:bit V2 board.
+After downloading the sample code, unplug the micro USB cable to the Micro:bit V2 board.
 
 Turn the DIP switched to the RGB and ON.
 
 ![Img](./media/CBA01.png)
 
-If the sound level ≥ 150 detected by the microphone on the micro:bit V2 board, the animal runs for 1s, these SK6812 RGB LEDs emit colorful light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
+If the sound level ≥ 150 detected by the microphone on the Micro:bit V2 board, the animal runs for 1s, these SK6812 RGB LEDs emit colorful light, and the 5×5 LED matrix displays ![Img](./media/ab3.png).
 
 If the sound level < 150, the animal stops running, and these SK6812 RGB LEDs and the 5×5 LED matrix turn off.
 
